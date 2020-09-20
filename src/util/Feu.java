@@ -2,6 +2,6 @@ package util;
 
 public enum Feu {
 	
-	VERT, ORANGE, ROUGE
+	VERT, ORANGE, ROUGE, NOIR
 
 }
